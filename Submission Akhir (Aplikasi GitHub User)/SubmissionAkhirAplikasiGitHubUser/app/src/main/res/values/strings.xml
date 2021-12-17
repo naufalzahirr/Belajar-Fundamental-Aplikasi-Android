@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Submission Akhir (Aplikasi GitHub User)</string>
+    <string name="name">Name  </string>
+    <string name="location">Location </string>
+    <string name="repository">Repository</string>
+    <string name="company">Company </string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Avatar</string>
+    <string name="title_home">"Github"</string>
+    <string name="share">Share</string>
+    <string name="avatar_picture">Avatar Picture</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="company_icon">Company Icon</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="application_logo">Application Logo</string>
+    <string name="data_is_empty">Data is Empty</string>
+    <string name="favorite_is_empty">Favorite is Empty</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="theme">Theme</string>
+    <string name="message">"Silahkan klik https://github.com/${username}"</string>
+    <string name="favorite_dihapus">"${favorite.username} telah dihapus dari data User Favorite"</string>
+    <string name="favorite_ditambah">"${favorite.username} telah ditambahkan ke data User Favorite"</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="star">Star Button</string>
+    <string name="viewpager">View Pager</string>
+</resources>

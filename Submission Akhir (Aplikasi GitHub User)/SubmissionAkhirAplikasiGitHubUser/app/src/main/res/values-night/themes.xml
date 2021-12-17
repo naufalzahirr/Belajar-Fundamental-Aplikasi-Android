@@ -1,0 +1,54 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SubmissionAkhirAplikasiGitHubUser" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/white_transparent</item>
+        <item name="colorPrimaryVariant">@color/bluegray900</item>
+        <item name="colorOnPrimary">@color/dark_gray</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/green_300</item>
+        <item name="colorSecondaryVariant">@color/green_300</item>
+        <item name="colorOnSecondary">@color/dark_gray</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/dark_gray</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="navigationIcon">@mipmap/github_logo</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="android:textViewStyle">@style/DefaultTextView</item>
+        <item name="popupMenuBackground">@color/white_transparent2</item>
+
+    </style>
+
+    <style name="DefaultTextView" parent="Widget.AppCompat.TextView">
+
+        <item name="fontFamily">@font/segoeui_semibold</item>
+    </style>
+
+
+    <style name="bg_color" parent="">
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <style name="tint_detail" parent="">
+        <item name="android:tint">@color/gold</item>
+    </style>
+
+    <style name="tablayout" parent="">
+        <item name="tabTextColor">@color/white</item>
+        <item name="android:background">@color/dark_gray</item>
+    </style>
+
+    <style name="item_row" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="detail_user" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+</resources>
